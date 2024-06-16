@@ -1,21 +1,3 @@
-<h1 align="left">Hello </h1>
-
-###
-
-<h3 align="left">I am Guram, Full-Stack Web Developer.</h3>
-
-###
-
-<h2 align="left">Demo Projects</h2>
-
-###
-
-<h4 align="left">
-  <a href="https://github.com/gmukeria/audiophile-ecommerce-website"> ‣ Audiophil Ecommerce Website </a><br>
-  <a href="https://github.com/gmukeria/reactHookForm"> ‣ React Hook Form </a><br>
-  <a href="https://github.com/gmukeria/password-generator">‣ Password Generator </a><br>
-  <a href="https://github.com/gmukeria/todo-app">‣ Todo App </a>
-</h4>
 
 ###
 
@@ -38,8 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
-  <img width="12" />
+ 
 
 </div>
 
